@@ -3,22 +3,29 @@
     {
       "src": "https://picsum.photos/seed/img1/600/400",
       "alt": "Image 1 for slide",
-      "about": "this  is random pic 1"
+      "about": "This  is random pic 1"
     },
     {
       "src": "https://picsum.photos/seed/img2/600/400",
       "alt": "Image 2 for slide",
-      "about": "this  is random pic 2"
+      "about": "This  is random pic 2"
     },
     {
       "src": "https://picsum.photos/seed/img3/600/400",
       "alt": "Image 3 for slide",
-      "about": "this  is random pic 3"
+      "about": "This  is a random pic 3"
     },
     {
       "src": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.peakpx.com%2Fen%2Fhd-wallpaper-desktop-eifii&psig=AOvVaw3T8CpA5v7d6sDjC-b9OxFQ&ust=1715343191344000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDxmMPFgIYDFQAAAAAdAAAAABAE",
       "alt": "Image 4 for slide",
-      "about": "this  is random pic 4"
+      "about": "This  is a random pic 4"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1650747835887-3abb06160fa7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "alt": "Image 5 for slide",
+      "about": "this  is random pic 5"
     }
+
+
   ]
 }
